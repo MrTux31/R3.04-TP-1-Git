@@ -1,0 +1,23 @@
+# ======================
+# Maven / Java
+# ======================
+/target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Eclipse / IntelliJ / VS Code
+/.idea/
+/*.iml
+/.vscode/
+
+
+
+# ======================
+# Logs et fichiers temporaires
+# ======================
+*.tmp
+*.swp
+*.bak
